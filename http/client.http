@@ -1,0 +1,28 @@
+### CREATE
+POST http://localhost:8080/books
+Content-Type: application/json
+
+{
+  "title" : "The Jungle Book"
+}
+
+### READ
+GET http://localhost:8080/books/15a85049-7de0-40e5-9266-9d2a9c562614
+Content-Type: application/json
+
+### UPDATE
+PUT http://localhost:8080/books/95802306-541f-43f6-af0f-8bd7ffce1cb5
+Content-Type: application/json
+
+{
+  "title" : "The Jungle Book1"
+}
+
+### DELETE
+DELETE http://localhost:8080/books/95802306-541f-43f6-af0f-8bd7ffce1cb5
+Content-Type: application/json
+
+
+###
+GET http://localhost:8080/books
+Content-Type: application/json
