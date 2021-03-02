@@ -14,7 +14,7 @@
  - Exposed 0.17.7
  - HikariCP 3.4.5
  - Flywaydb 6.4.1
- - H2
+ - Mysql
  - Netty (Embedded no Ktor)
  - Git
  
