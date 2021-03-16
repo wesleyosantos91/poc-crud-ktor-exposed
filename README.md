@@ -17,15 +17,10 @@ O projeto tem como objetivo demonstrar a ultilização do Kotlin com Ktor e Expo
 
 ## Fundamentos teóricos
 
-<<<<<<< HEAD
 > Ktor: Ktor é uma estrutura assíncrona para a criação de microsserviços, aplicativos da web e muito mais. É divertido, gratuito e de código aberto.
 
 > Exposed: Exposed é uma biblioteca de código aberto (licença Apache) desenvolvida pela JetBrains, que fornece uma API Kotlin idiomática para algumas implementações de banco de dados relacional enquanto elimina as diferenças entre os fornecedores de banco de dados.
 
-=======
-> Springboot: O Spring Boot é um projeto da Spring que veio para facilitar o processo de configuração e publicação de nossas aplicações. A intenção é ter o seu projeto rodando o mais rápido possível e sem complicação.
-
->>>>>>> e85662bb3b0ea8350e5665797f0b085b508a9365
 > Kotlin: Kotlin: Kotlin é uma Linguagem de programação multiplataforma, orientada a objetos e funcional, concisa e estaticamente tipada, desenvolvida pela JetBrains em 2011, que compila para a Máquina virtual Java e que também pode ser traduzida para a linguagem JavaScript e compilada para código nativo.
 
 ## Tecnologias
